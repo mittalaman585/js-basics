@@ -1,0 +1,16 @@
+// let score = "33"
+
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber)
+// "33"= 33
+// "33abc"= NaN
+// true=1, false =0
+
+let isLoggedIn = "1"
+let booleanisLoggedIn = Boolean(isLoggedIn)
+console.log(booleanisLoggedIn)
+
+// boolean = 1 valueis true
+// boolean 0 = value is false
+// no value is there "" = false 
+// when value is defined it is true "aman"
