@@ -1,0 +1,14 @@
+"use strict"; //treat all code as new version still in modern codes wedont need to write use strict
+// alert(3+3) , we are using node not browser 
+
+// our purpose to write codes strictly includes code readability
+
+// different data types  string ""
+// boolean = true/false
+// number 
+// undefined
+// null
+// bigint
+// symbol
+// console.log(typeof), undefined =output is undefined ;
+// console.log(typeof), null = output is object, it may be the errror in js to not completely definedjs 
